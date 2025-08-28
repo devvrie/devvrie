@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @devvrie
-- 👀 I’m interested in cars, AI and science
-- 🌱 I’m currently learning C# & Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in cars, football and science
+- 🌱 I’m currently learning C#, HMTL, CSS & Java
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I really like beer
+- ⚡ Fun fact: I love my gf
 
 <!---
 devvrie/devvrie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
